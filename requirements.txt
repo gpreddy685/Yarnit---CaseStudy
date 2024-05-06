@@ -1,0 +1,9 @@
+openai
+unstructured
+rank-bm25
+faiss-cpu
+uvicorn
+fastapi
+langchain
+langchain-openai
+langchain-community
